@@ -1,3 +1,5 @@
+package greedy;
+
 import java.util.Scanner;
 
 public class Greedy1_1 {

@@ -1,3 +1,5 @@
+package Impl;
+
 import java.util.Scanner;
 
 public class Implement2_1 {

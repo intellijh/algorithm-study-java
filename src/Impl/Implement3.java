@@ -1,3 +1,5 @@
+package Impl;
+
 import java.util.*;
 
 public class Implement3 {
@@ -5,8 +7,8 @@ public class Implement3 {
     public static void main(String[] args) {
         int answer = 0;
 
-        int[] dx = {-2, -1, 1, 2, 2, 1, -1, 2};
-        int[] dy = {-1, -2, -2, -1, 1, 2, 2, 1};
+        int[] dx = {-2, -2, -1, -1, 1, 1, 2, 2};
+        int[] dy = {-1, 1, -2, 2, -2, 2, -1, 1};
 
         Scanner sc = new Scanner(System.in);
         String coordinate = sc.nextLine();
